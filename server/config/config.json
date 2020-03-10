@@ -1,0 +1,26 @@
+{
+	"development": {
+		"username": "root",
+		"password": "root",
+		"database": "manage-money",
+		"host": "127.0.0.1",
+		"dialect": "mysql",
+		"timezone": "+08:00"
+	},
+	"test": {
+		"username": "root",
+		"password": "root",
+		"database": "manage-money",
+		"host": "127.0.0.1",
+		"dialect": "mysql",
+		"timezone": "+08:00"
+	},
+	"production": {
+		"username": "wanlianke2018",
+		"password": "Onealllink2018.*",
+		"database": "manage-money",
+		"host": "47.98.159.49",
+		"dialect": "mysql",
+		"timezone": "+08:00"
+	}
+}
